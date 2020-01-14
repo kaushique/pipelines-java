@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/EYFSOAdvisory/Advanced%20Engineering/_apis/build/status/kaushique.pipelines-java?branchName=master)](https://dev.azure.com/EYFSOAdvisory/Advanced%20Engineering/_build/latest?definitionId=1102&branchName=master)
 
 # Contributing
 
